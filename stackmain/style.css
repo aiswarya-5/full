@@ -114,7 +114,6 @@
 	font-family: arial, sans-serif;	
 }	
 .last1 button{
-	height: 48px;
 	width: 43px;
 	border: none;
 	outline: none;
@@ -129,7 +128,6 @@
 	padding-bottom: 1px;
 }
 .last2 button{
-	height: 48px;
 	width: 35px;
 	border: none;
 	outline: none;
@@ -143,7 +141,6 @@
 	margin-top: 1px;
 }
 .last3 button{
-	height: 48px;
 	width: 39px;
 	border: none;
 	outline: none;
@@ -158,7 +155,6 @@
 	
 }
 .last4 button{
-	height: 48px;
 	width: 34px;
 	border: none;
 	outline: none;
@@ -1125,40 +1121,40 @@
 	padding-top: 30.5px;
 	margin-left: 99px;
 }
-.foot-column #head,.foot-column2 #head{
+.foot-column .head,.foot-column2 .head{
 	font-size: 13px;
 	font-weight: bold;
 	color:#babfc4;
 	padding-bottom: 15.5px;
 	cursor:pointer;
 }
-#subheadl,#subheadc, #subhead-bus, #subhead-data, #subhead-terms, #subhead, #subheadfirst{
+.subheadl,.subheadc, .subhead-bus, .subhead-data, .subhead-terms, .subhead, .subheadfirst{
 	font-size: 13px;
 	color: #808b93;
 }
-#subhead{
+.subhead{
 	padding-bottom: 7.5px;
 }
-#subheadfirst{
+.subheadfirst{
 	padding-bottom: 8px;
 }
-#subheadl{
+.subheadl{
 	padding-bottom: 7px;	
 }
-#subhead-bus{
+.subhead-bus{
 	padding-bottom: 23.5px;	
 }
-#subhead-data, #subhead-terms, #subhead-bus, #subheadl{
+.subhead-data, .subhead-terms, .subhead-bus, .subheadl{
 	padding-top:0.5px;
 }
-#subhead-terms{
+.subhead-terms{
 	padding-bottom: 7.5px;	
 }
-#subheadl:hover, #subheadc:hover, #subhead-bus:hover, #subhead-data:hover, #subhead-terms:hover, #subhead:hover, #subheadfirst:hover{
+.subheadl:hover, .subheadc:hover, .subhead-bus:hover, .subhead-data:hover, .subhead-terms:hover, .subhead:hover, .subheadfirst:hover{
 	cursor:pointer;
 	color:  #babfc4;
 }
-.foot-column2 #subheads{
+.foot-column2 .subheads{
 	color:#242526;
 }
 .foot-column3{
